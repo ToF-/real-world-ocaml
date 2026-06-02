@@ -1,0 +1,4 @@
+(executable
+ (public_name real-world-ocaml)
+ (name main)
+ (libraries real_world_ocaml))
